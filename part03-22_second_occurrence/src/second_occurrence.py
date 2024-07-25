@@ -18,3 +18,4 @@ while True:
     else:
         print(f"The substring does not occur twice in the string.")
         break
+        #test
